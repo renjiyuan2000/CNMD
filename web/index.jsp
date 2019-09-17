@@ -12,6 +12,7 @@
 </head>
 <body>
 Hello，开始学习java web
+苏卡布列！get
 <a href="gernezhongxin.html">个人中心</a>
 </body>
 </html>
